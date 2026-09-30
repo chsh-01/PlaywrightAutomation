@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T11:04:26.029Z",
+  "generatedAt": "2026-09-30T11:20:49.162Z",
   "repo": {
     "connectorId": 459,
     "repoSlug": "chsh-01/PlaywrightAutomation",
@@ -45,6 +45,27 @@
               "name": "AddProductToCart",
               "kind": "typescript",
               "repoPath": "ServiceNow/Helpers/TS-8-AddProductToCart.ts"
+            },
+            {
+              "assetId": 37245,
+              "displayId": "TS-3",
+              "name": "FilterHelper",
+              "kind": "typescript",
+              "repoPath": "ServiceNow/Helpers/TS-3-FilterHelper.ts"
+            },
+            {
+              "assetId": 37239,
+              "displayId": "TS-1",
+              "name": "filterNavMenuSearch",
+              "kind": "typescript",
+              "repoPath": "ServiceNow/Helpers/TS-1-filterNavMenuSearch.ts"
+            },
+            {
+              "assetId": 37240,
+              "displayId": "TS-2",
+              "name": "selectDropDownHelper",
+              "kind": "typescript",
+              "repoPath": "ServiceNow/Helpers/TS-2-selectDropDownHelper.ts"
             }
           ]
         }
@@ -69,6 +90,13 @@
           "name": "[C46714]_ServiceNow_OrderListedSoftware",
           "kind": "test-case",
           "repoPath": "TestCases/TC-19-[C46714]_ServiceNow_OrderListedSoftware.spec.ts"
+        },
+        {
+          "assetId": 37258,
+          "displayId": "TC-12",
+          "name": "[C46724]_ServiceNow_EmailSummaries",
+          "kind": "test-case",
+          "repoPath": "TestCases/TC-12-[C46724]_ServiceNow_EmailSummaries.spec.ts"
         }
       ]
     }
@@ -83,12 +111,44 @@
       "parentAssetId": 44787
     },
     {
+      "assetId": 37239,
+      "assetKind": "typescript",
+      "displayId": "TS-1",
+      "name": "filterNavMenuSearch",
+      "repoPath": "ServiceNow/Helpers/TS-1-filterNavMenuSearch.ts",
+      "parentAssetId": 37238
+    },
+    {
+      "assetId": 37240,
+      "assetKind": "typescript",
+      "displayId": "TS-2",
+      "name": "selectDropDownHelper",
+      "repoPath": "ServiceNow/Helpers/TS-2-selectDropDownHelper.ts",
+      "parentAssetId": 37238
+    },
+    {
+      "assetId": 37245,
+      "assetKind": "typescript",
+      "displayId": "TS-3",
+      "name": "FilterHelper",
+      "repoPath": "ServiceNow/Helpers/TS-3-FilterHelper.ts",
+      "parentAssetId": 37238
+    },
+    {
       "assetId": 37272,
       "assetKind": "typescript",
       "displayId": "TS-8",
       "name": "AddProductToCart",
       "repoPath": "ServiceNow/Helpers/TS-8-AddProductToCart.ts",
       "parentAssetId": 37238
+    },
+    {
+      "assetId": 37258,
+      "assetKind": "test-case",
+      "displayId": "TC-12",
+      "name": "[C46724]_ServiceNow_EmailSummaries",
+      "repoPath": "TestCases/TC-12-[C46724]_ServiceNow_EmailSummaries.spec.ts",
+      "parentAssetId": 37274
     },
     {
       "assetId": 37273,

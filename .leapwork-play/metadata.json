@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T11:21:03.228Z",
+  "generatedAt": "2026-09-30T12:17:42.645Z",
   "repo": {
     "connectorId": 459,
     "repoSlug": "chsh-01/PlaywrightAutomation",
@@ -47,13 +47,6 @@
               "repoPath": "ServiceNow/Helpers/TS-8-AddProductToCart.ts"
             },
             {
-              "assetId": 37245,
-              "displayId": "TS-3",
-              "name": "FilterHelper",
-              "kind": "typescript",
-              "repoPath": "ServiceNow/Helpers/TS-3-FilterHelper.ts"
-            },
-            {
               "assetId": 37239,
               "displayId": "TS-1",
               "name": "filterNavMenuSearch",
@@ -83,13 +76,6 @@
           "name": "[C46711]_ServiceNow_CreateBulkIncidents",
           "kind": "test-case",
           "repoPath": "TestCases/TC-20-[C46711]_ServiceNow_CreateBulkIncidents.spec.ts"
-        },
-        {
-          "assetId": 37273,
-          "displayId": "TC-19",
-          "name": "[C46714]_ServiceNow_OrderListedSoftware",
-          "kind": "test-case",
-          "repoPath": "TestCases/TC-19-[C46714]_ServiceNow_OrderListedSoftware.spec.ts"
         },
         {
           "assetId": 37258,
@@ -127,14 +113,6 @@
       "parentAssetId": 37238
     },
     {
-      "assetId": 37245,
-      "assetKind": "typescript",
-      "displayId": "TS-3",
-      "name": "FilterHelper",
-      "repoPath": "ServiceNow/Helpers/TS-3-FilterHelper.ts",
-      "parentAssetId": 37238
-    },
-    {
       "assetId": 37272,
       "assetKind": "typescript",
       "displayId": "TS-8",
@@ -148,14 +126,6 @@
       "displayId": "TC-12",
       "name": "[C46724]_ServiceNow_EmailSummaries",
       "repoPath": "TestCases/TC-12-[C46724]_ServiceNow_EmailSummaries.spec.ts",
-      "parentAssetId": 37274
-    },
-    {
-      "assetId": 37273,
-      "assetKind": "test-case",
-      "displayId": "TC-19",
-      "name": "[C46714]_ServiceNow_OrderListedSoftware",
-      "repoPath": "TestCases/TC-19-[C46714]_ServiceNow_OrderListedSoftware.spec.ts",
       "parentAssetId": 37274
     },
     {

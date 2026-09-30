@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T10:42:55.919Z",
+  "generatedAt": "2026-09-30T11:04:26.029Z",
   "repo": {
     "connectorId": 459,
     "repoSlug": "chsh-01/PlaywrightAutomation",
@@ -12,6 +12,21 @@
     "name": "AutomationRegressionSuite"
   },
   "tree": [
+    {
+      "assetId": 44787,
+      "displayId": "FD-24",
+      "name": "Agents",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 44789,
+          "displayId": "AG-1",
+          "name": "NewAgent12",
+          "kind": "agent",
+          "repoPath": "Agents/AG-1-NewAgent12.agent.json"
+        }
+      ]
+    },
     {
       "assetId": 37232,
       "displayId": "FD-6",
@@ -59,6 +74,14 @@
     }
   ],
   "files": [
+    {
+      "assetId": 44789,
+      "assetKind": "agent",
+      "displayId": "AG-1",
+      "name": "NewAgent12",
+      "repoPath": "Agents/AG-1-NewAgent12.agent.json",
+      "parentAssetId": 44787
+    },
     {
       "assetId": 37272,
       "assetKind": "typescript",

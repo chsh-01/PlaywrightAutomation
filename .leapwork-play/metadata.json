@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T10:30:55.821Z",
+  "generatedAt": "2026-09-30T10:42:55.919Z",
   "repo": {
     "connectorId": 459,
     "repoSlug": "chsh-01/PlaywrightAutomation",
@@ -12,6 +12,29 @@
     "name": "AutomationRegressionSuite"
   },
   "tree": [
+    {
+      "assetId": 37232,
+      "displayId": "FD-6",
+      "name": "ServiceNow",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 37238,
+          "displayId": "FD-8",
+          "name": "Helpers",
+          "kind": "folder",
+          "children": [
+            {
+              "assetId": 37272,
+              "displayId": "TS-8",
+              "name": "AddProductToCart",
+              "kind": "typescript",
+              "repoPath": "ServiceNow/Helpers/TS-8-AddProductToCart.ts"
+            }
+          ]
+        }
+      ]
+    },
     {
       "assetId": 37274,
       "displayId": "FD-21",
@@ -36,6 +59,14 @@
     }
   ],
   "files": [
+    {
+      "assetId": 37272,
+      "assetKind": "typescript",
+      "displayId": "TS-8",
+      "name": "AddProductToCart",
+      "repoPath": "ServiceNow/Helpers/TS-8-AddProductToCart.ts",
+      "parentAssetId": 37238
+    },
     {
       "assetId": 37273,
       "assetKind": "test-case",

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-30T10:30:55.821Z",
+  "repo": {
+    "connectorId": 459,
+    "repoSlug": "chsh-01/PlaywrightAutomation",
+    "baseBranch": "main"
+  },
+  "team": {
+    "assetId": 37131,
+    "displayId": "TM-1",
+    "name": "AutomationRegressionSuite"
+  },
+  "tree": [
+    {
+      "assetId": 37274,
+      "displayId": "FD-21",
+      "name": "TestCases",
+      "kind": "folder",
+      "children": [
+        {
+          "assetId": 37286,
+          "displayId": "TC-20",
+          "name": "[C46711]_ServiceNow_CreateBulkIncidents",
+          "kind": "test-case",
+          "repoPath": "TestCases/TC-20-[C46711]_ServiceNow_CreateBulkIncidents.spec.ts"
+        },
+        {
+          "assetId": 37273,
+          "displayId": "TC-19",
+          "name": "[C46714]_ServiceNow_OrderListedSoftware",
+          "kind": "test-case",
+          "repoPath": "TestCases/TC-19-[C46714]_ServiceNow_OrderListedSoftware.spec.ts"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "assetId": 37273,
+      "assetKind": "test-case",
+      "displayId": "TC-19",
+      "name": "[C46714]_ServiceNow_OrderListedSoftware",
+      "repoPath": "TestCases/TC-19-[C46714]_ServiceNow_OrderListedSoftware.spec.ts",
+      "parentAssetId": 37274
+    },
+    {
+      "assetId": 37286,
+      "assetKind": "test-case",
+      "displayId": "TC-20",
+      "name": "[C46711]_ServiceNow_CreateBulkIncidents",
+      "repoPath": "TestCases/TC-20-[C46711]_ServiceNow_CreateBulkIncidents.spec.ts",
+      "parentAssetId": 37274
+    }
+  ]
+}

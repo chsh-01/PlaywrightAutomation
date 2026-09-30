@@ -2,7 +2,7 @@ import { leapwork } from "./leapwork";
 
 import { ServiceNowLoginToServiceNow } from "@assets/ServiceNow/ServiceNow_LoginLogout/ServiceNow_LoginToServiceNow";
 import { assertHeadingInPages } from "@assets/ServiceNow/Helpers/HeadingTextHelper";
-import { addProductToCart } from "@assets/ServiceNow/Helpers/AddProductToCart";
+import { AddProductToCart , addProductToCart } from "@assets/ServiceNow/Helpers/AddProductToCart";
 import { ServiceNowLogOut } from "@assets/ServiceNow/ServiceNow_LoginLogout/ServiceNow_LogOut";
 import { filterNavMenuSearch } from "@assets/ServiceNow/Helpers/filterNavMenuSearch";
 
